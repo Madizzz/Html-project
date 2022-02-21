@@ -1,0 +1,14 @@
+*{
+    color: bisque;
+}
+div{
+ color: blue;
+}
+block{
+     font-size: 45px;
+}
+#block1{
+font-size: 100px;
+font-weight: bolder;
+color: darkgray;
+}
